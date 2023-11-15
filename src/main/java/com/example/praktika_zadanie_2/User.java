@@ -7,7 +7,6 @@ public class User {
 
     private String defaultCurrency;
     private String name;
-
     private Integer id;
 
     public User(String defaultCurrency, String name) {
